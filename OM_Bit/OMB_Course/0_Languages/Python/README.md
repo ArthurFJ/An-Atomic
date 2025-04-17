@@ -128,4 +128,4 @@ A structured programming course for basic to top general topcis.
 
 
 ## License
-[ALFJ](LICENSE)
+[ALFJ](/LICENSE)
