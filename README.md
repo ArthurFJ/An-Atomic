@@ -18,6 +18,10 @@ one-more/
 ├── POLICY.md       # Privacy & rules
 ├── TERMS.md        # Legal terms
 ├── templates/      # Excel/Docs templates
+.
+.
+.
+(This is a placeholder for the actual structure of the repository. Still to be defined.)
 ```
 
 ---

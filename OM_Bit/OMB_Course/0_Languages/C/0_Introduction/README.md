@@ -1,6 +1,5 @@
-# C++ Programming Course
-A structured **C++** programming course course for basic to top general topcis.
-
+# [Course Name]
+A structured programming course on [Topic].
 
 ## Contents
 1. [Prerequisites](#prerequisites)
