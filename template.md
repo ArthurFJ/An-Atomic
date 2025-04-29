@@ -1,29 +1,39 @@
 # [Course Name]
-A structured programming course on [Topic].
+A structured programming course/project on [Topic] (...).
 
 ## Contents
 1. [Prerequisites](#prerequisites)
 2. [Modules](#modules)
-3. [Exercises](#exercises)
-4. [Final Project](#final-project)
+3. [Moduled Exercices](#moduled-exercices)
+4. [Challenges](#Challenges)
 
 ## Prerequisites
-- [Tool/Knowledge 1] (e.g., Python 3.x)
-- [Tool/Knowledge 2] (e.g., Git basics)
+- [Tool/Knowledge 1]
+- [Tool/Knowledge 2]
 
 ## Modules
-### 1. Module 1: [Topic]
-- Theory: [Key concepts]
-- Exercise: `exercise_1.py` (see `/exercises/`)
+### Module 1: [Topic]
+- Lecture 1: (Subtopic 1)
+  - [Key concepts]
+  - Exercise: `exercise_1.py` (see `/exercises/`)
+- Lecture 2: (Subtopic 2)
+  - [Key concepts]
+  - Exercise: `exercise_2.py` (see `/exercises/`)
+- Lecture 3: (Subtopic 3)
+  - [Key concepts]
+  - Exercise: `exercise_3.py` (see `/exercises/`)
+- Miscellaneous: (Subtopic 4)
+  - [Key concepts]
+  - Exercise: `miscellaneous_1.py` (see `/exercises/`)
 
-## Exercises
+## Moduled Exercices
+- How to use: [Instructions]
 - Directory: `/exercises/`
 - Solutions: `/solutions/` (or branch `solutions`)
 
-## Final Project
-- Description: [Build X using Y]
+## Challenges
+- Description: [Instructions]
 - Submission: [Instructions]
 
 ## License
-[ALFJ](LICENSE)
-EOF
+[MVP](LICENSE)

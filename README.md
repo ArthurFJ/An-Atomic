@@ -1,23 +1,31 @@
 # One More  
-*Another Answer, Another Life, Another Feeling, Another Joy.*  
-**By Arthur Lino Faugeron Jacono (ALFJ)**  
+**Mindful Virtuous Professionals**
+
+**A project made by *Arthur Faugeron Jacono* and *(Martin Fuentes)* .**  
 
 ---
 
 ## Project Vision  
-A curated collection of **templates, courses, and resources** to inspire learning and creativity:  
-- **Productivity**  
-- **Media**
-- **Courses**
+A curated collection of **Courses** and **Massive Projects** to inspire learning and creativity in the **digital age**.
+The goal is to provide a **comprehensive** and **accessible** resource for people seeking to enhance their knowledge and skills in various fields. The small courses are to give basic knowledge to the user, and then the user can explore more about the topic.
+This project also aims to foster a **community of learners and creators** who can share their experiences and insights with one another. 
 
 ---
 ## 📂 Repository Structure  
 ```
-one-more/
-├── LICENSE         # Usage rights (Non-commercial, No Derivatives)
-├── POLICY.md       # Privacy & rules
-├── TERMS.md        # Legal terms
-├── templates/      # Excel/Docs templates
+/One_More/
+├── POLICY.md
+├── TERMS.md
+├── LICENSE
+├── README.md
+├── /OM_Bit/
+    ├──/Courses/
+        ├── /Languages/
+            ├── (... Placeholder for the actual structure of the repository. Still to be defined.)
+        ├── /Topics/
+            ├── (... Placeholder for the actual structure of the repository. Still to be defined.)
+    ├── /Projects/
+        ├── (... Placeholder for the actual structure of the repository. Still to be defined.)
 .
 .
 .
@@ -33,7 +41,7 @@ one-more/
 
 **You may NOT:**  
 ❌ Modify, remix, or create derivatives **without written permission**.  
-❌ Use for **commercial purposes** (e.g., paid courses, monetized content).  
+❌ Use for **commercial purposes**.
 
 > 📜 **Full terms**: [LICENSE](LICENSE) | [POLICY](POLICY.md) | [TERMS](TERMS.md)  
 
@@ -43,20 +51,18 @@ one-more/
 If sharing, include:  
 
 ---
-One More" by ALFJ – [LINK_TO_PROJECT]  
-Another Answer, Another Life, Another Feeling, Another Joy.  
+"One More" by MVP's co-creators – [LINK_TO_PROJECT]. Mindful Virtuous Professionals.  
 
-✉️ Contact
-For permissions (modifications/commercial use) or questions:
+Contact:
+1. For permissions  or questions:
+    - Email: [faugeronarthur@gmail.com](mailto:faugeronarthur@gmail.com) or [...](mailto: NONE)
+    - Phone: [+56945769963](tel:+56945769963) or [NONE](tel:NONE)
 
-Email: [faugeronarthur@gmail.com](mailto:faugeronarthur@gmail.com)
-
-Phone: +569 4576 9963
-
-LinkedIn: [LinkedIn Profile](https://linkedin.com/in/arthur-faugeron-00b259309)
+LinkedIn: [Arthur's LinkedIn Profile](https://linkedin.com/in/arthur-faugeron-00b259309)
+LinkedIn: [...'s LinkedIn Profile (to-be-added)]()
 
 🌐 Website: [NI]
 
-Part of the ALFJ Ecosystem | © 2024 Arthur Lino Faugeron Jacono
+Part of the MVP Ecosystem | © MVP 2025 Arthur Faugeron and Martin Fuentes
 
 ---
