@@ -1,5 +1,5 @@
 # [Course Name]
-A structured programming course/project on [Topic] (...).
+A structured programming course on [Topic] (...).
 
 ## :floppy_disk: Contents
 1. [Prerequisites](#prerequisites)
@@ -12,7 +12,7 @@ A structured programming course/project on [Topic] (...).
 - [Required programs]
 
 ## :books: Modules
-### :one: Module 1: [Topic]
+### :one: Module: [Topic]
 - Lecture 1: (Subtopic 1)
   - [Key concepts]
   - Exercise: `exercise_1.py` (see `/exercises/`)
