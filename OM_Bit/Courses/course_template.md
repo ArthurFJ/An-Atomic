@@ -1,18 +1,18 @@
 # [Course Name]
 A structured programming course/project on [Topic] (...).
 
-## Contents
+## :floppy_disk: Contents
 1. [Prerequisites](#prerequisites)
 2. [Modules](#modules)
 3. [Moduled Exercices](#moduled-exercices)
 4. [Challenges](#Challenges)
 
-## Prerequisites
+## :open_file_folder: Prerequisites
 - [Tool/Knowledge 1]
-- [Tool/Knowledge 2]
+- [Required programs]
 
-## Modules
-### Module 1: [Topic]
+## :books: Modules
+### :one: Module 1: [Topic]
 - Lecture 1: (Subtopic 1)
   - [Key concepts]
   - Exercise: `exercise_1.py` (see `/exercises/`)
@@ -26,14 +26,14 @@ A structured programming course/project on [Topic] (...).
   - [Key concepts]
   - Exercise: `miscellaneous_1.py` (see `/exercises/`)
 
-## Moduled Exercices
+## :computer: Moduled Exercices
 - How to use: [Instructions]
 - Directory: `/exercises/`
 - Solutions: `/solutions/` (or branch `solutions`)
 
-## Challenges
+## :mag: Challenges
 - Description: [Instructions]
 - Submission: [Instructions]
 
-## License
+## :lock: License
 [MVP](LICENSE)

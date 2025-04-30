@@ -46,8 +46,19 @@ This project also aims to foster a **community of learners and creators** who ca
 > 📜 **Full terms**: [LICENSE](LICENSE) | [POLICY](POLICY.md) | [TERMS](TERMS.md)  
 
 ---
+## :warning: Important Notes
+- This repository is a work in progress. The structure and content are still being developed, and some sections may be incomplete or subject to change.
 
-## Attribution  
+If repository is downloaded, please consider the following:
+- Includes Markdown files for easy reading and editing, notebooks extesions for multiple languages.
+- Uses content derivated from Youtube videos, Documentation, Textbooks, GitHub repositories, and other sources as references.
+- All content and modules used for this project will be documented in a json file, which will be available in the repository. This file will include the name of the module, the author, and the link to the original content. This is to ensure that all content used is properly credited and to provide a reference for users who want to explore further.
+- The project is designed to be modular, allowing for easy updates and additions in the future. This means that new modules can be added or existing ones can be updated without affecting the overall structure of the project.
+- The project is designed to be scalable, allowing for easy updates and additions in the future. This means that new modules can be added or existing ones can be updated without affecting the overall structure of the project.
+
+---
+
+## :link: Attribution  
 If sharing, include:  
 
 ---

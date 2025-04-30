@@ -1,0 +1,37 @@
+{"SITES" : {"Markdown_Emoji": "https://github.com/markdown-templates/markdown-emojis",
+    "Web_Basis": "https://htmlcheatsheet.com/",
+    "Exercises": "https://leetcode.com/",
+    "HTML_CSS": "https://youtu.be/HGTJBPNC-Gw?si=soEpaMzfqbjFCCNT",
+    "CSS": "https://youtu.be/wRNinF7YQqQ?si=WYy856GrB1gT2e7a",
+    "Python": "https://youtu.be/XKHEtdqhLK8?si=iVqpAOSAjsxtN95n",
+    "Java": "https://youtu.be/xk4_1vDrzzo?si=Pj_exDDbz9D_pJWc",
+    "JavaScript": "https://youtu.be/lfmg-EJ8gm4?si=U_MOCyFGzq70x3Vz",
+    "C": "https://youtu.be/87SH2Cn0s9A?si=EHdMFYl2cuzbuEIX",
+    "C++": "https://youtu.be/-TkoO8Z07hI?si=rIBy4TGGJDLgu6Bs",
+    "C#": "https://youtu.be/wxznTygnRfQ?si=P51nuNjFXDejXNTk",
+    "SQL": "https://youtu.be/DFg1V-rO6Pg?si=VJwUV8Z2SPOZhh7L",
+    "MySQL": "https://youtu.be/5OdVJbNCSso?si=h1zvjZ4GFGJ88YvH",
+    "MongoDB": "https://youtu.be/c2M-rlkkT5o?si=Kbuk7Xe7tl6KirAU",
+    "React": "https://youtu.be/CgkZ7MvWUAA?si=z9ID5dNEy0uvCXVl",
+    "D3js": "https://youtu.be/nzshmMlOuwI?si=wiZEyKaOwY2QK-x_",
+    "GUI": "https://youtu.be/mop6g-c5HEY?si=IspDr00ZLZPBFsgu",
+    "Django_React": "https://youtu.be/c-QsfbznSXI?si=yunQ3O8zp76-VOo0",
+    "ShaderArt": "https://youtu.be/f4s1h2YETNY?si=9nHRm5brCWkZcQuL",
+    "Shaders": "https://youtu.be/3mfvZ-mdtZQ?si=g0vQQ0rncf-BQFdU",
+    "FullStack": "https://youtu.be/DK93dqmJJYg?si=XyXRaYvsVwEt1xMn"
+    },
+
+"VSCODE_MODULES": {
+    "Markdown_Emoji": ["Markdown Emoji", "mattbierner.com"],
+    "NoteBooks": ["Polyglot NoteBooks", "microsoft.com"],
+    "WebView": ["Live Server", "Riwtick Dey"],
+    "Jupyter": ["Jupyter", "microsoft.com"]
+    },
+
+"EXTERNAL_TOOLS": {
+    "AI": ["DeepSeek", "GitHub Copilot", "Gemini", "ChatGPT"],
+    "Web": ["Edge", "Google", "DuckDuckGo"],
+    "File_Managment": ["GitHub", "FileZilla", "Google Drive"]
+    }
+
+}
