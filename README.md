@@ -1,5 +1,5 @@
 # C.O.P.I. - An-Atomic Course
-## Create, Offer, Practice, and Inspire.
+## Create, Offer, Practice, Inspire.
 
 **A project made by *Arthur Faugeron Jacono* and *(...)* .**  
 

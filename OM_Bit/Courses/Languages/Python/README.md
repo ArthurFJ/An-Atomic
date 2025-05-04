@@ -1,20 +1,20 @@
 # Python
 A structured programming course on **Python** to cover from basics to more advanced concepts.
 
-## :floppy_disk: Contents
+## Contents
 1. [Prerequisites](#prerequisites)
 2. [Modules](#modules)
 3. [Moduled Exercices](#moduled-exercices)
 4. [Challenges](#Challenges)
 
-## :open_file_folder: Prerequisites
+## Prerequisites
 - [Python 3.x](https://www.python.org/downloads/)
 - [Python documentation](https://docs.python.org/3/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - Python libraries, which will be instructed according the lecture
 
-## :books: Modules
-### :zero: Module: Introduction
+## Modules
+### 00. Module: Introduction
 - Lecture 1: Introduction to Python
   - [Key concepts]
   - Exercise: `exercise_0.py` (see `/exercises/`)
@@ -25,7 +25,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `exercise_0.py` (see `/exercises/`)
 
-### :one: Module: Basics
+### 01. Module: Basics
 - Lecture 1: Variables and Data Types
   - Variables
   - Numbers
@@ -55,7 +55,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `miscellaneous_1.py` (see `/exercises/`)
 
-### :two: Module: Control Flow
+### 02. Module: Control Flow
 - Lecture 1: Conditional Statements
   - If, Elif, Else
   - Exercise: `exercise_5.py` (see `/exercises/`)
@@ -71,7 +71,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `miscellaneous_2.py` (see `/exercises/`)
 
-### :three: Module: Functions and Scope
+### 03. Module: Functions and Scope
 - Lecture 1: Functions
   - Definition
   - Parameters
@@ -88,7 +88,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `miscellaneous_3.py` (see `/exercises/`)
 
-### :four: Module: Object-Oriented Programming
+### 04. Module: Object-Oriented Programming
 - Lecture 1: OOP Fundamentals
   - Classes and Objects
   - Attributes and Methods
@@ -106,7 +106,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `miscellaneous_4.py` (see `/exercises/`)
 
-### :five: Module: Modules, Packages and Libraries
+### 05. Module: Modules, Packages and Libraries
 - Lecture 1: Modules and Packages
   - Importing Modules
   - Creating Packages
@@ -138,7 +138,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `miscellaneous_5.py` (see `/exercises/`)
 
-### :six: Module: Error Handling and Exceptions
+### 06. Module: Error Handling and Exceptions
 - Lecture 1: Error Handling
   - Try, Except, Finally
   - Raise
@@ -153,7 +153,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `miscellaneous_6.py` (see `/exercises/`)
 
-### :seven: Module: Functional Programming
+### 07. Module: Functional Programming
 - Lecture 1: Functional Programming Concepts
   - Map, Filter, Reduce
   - List Comprehensions
@@ -178,7 +178,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `miscellaneous_7.py` (see `/exercises/`)
 
-### :eight: Module: Concurrency and Parallelism
+### 08. Module: Concurrency and Parallelism
 - Lecture 3: Multithreading and Multiprocessing
   - Threading
   - Multiprocessing
@@ -200,7 +200,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `miscellaneous_8.py` (see `/exercises/`)
 
-### :nine: Module: External Data
+### 09. Module: External Data
 - Lecture 1: Web Scraping
   - Requests
   - BeautifulSoup
@@ -225,7 +225,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `miscellaneous_9.py` (see `/exercises/`)
 
-### :one::zero: Module: Advanced Topics
+### 10. Module: Advanced Topics
 - Lecture 1: Advanced Data Structures and Algorithms
   - Stacks
   - Queues
@@ -247,7 +247,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `miscellaneous_10.py` (see `/exercises/`)
 
-### :one::one: Networking and Web Development
+### 11. Networking and Web Development
 - Lecture 1: Networking Basics
   - Sockets
   - TCP/IP
@@ -265,7 +265,7 @@ A structured programming course on **Python** to cover from basics to more advan
   - [Key concepts]
   - Exercise: `miscellaneous_11.py` (see `/exercises/`)
 
-### :one::two: GUI and Web Frameworks
+### 12. GUI and Web Frameworks
 - Lecture 1: GUI Frameworks
   - Tkinter
   - PyQt
@@ -282,15 +282,34 @@ A structured programming course on **Python** to cover from basics to more advan
 
 ---
 
-## :computer: Moduled Exercices
+## Moduled Exercices
 - How to use: [Instructions]
 - Directory: `/exercises/`
 - Solutions: `/solutions/` (or branch `solutions`)
 
-## :mag: Challenges
-### :bulb: Projects
+## Challenges
 
-#### **Project 1: Basic Python Skills**
+#### **Challenge 0: Basic Python Skills**
+**Name:** Interdimensional Chess
+**Concepts:**
+- Variables, data types, lists/dictionaries
+- I/O
+- Loops, conditionals, basic functions
+
+**Task:**
+Create a chess game with some extra rules that:
+- Takes inputs from the user for moves.
+- Validates moves based on chess rules.
+- Players can move pieces in a 3D space.
+- Validates moves based on chess rules.
+- Keeps track of the game state (e.g., check, checkmate).
+- *(Bonus)* Add a simple AI opponent that makes random moves.
+
+**Goal:** Reinforce basic Python skills and game logic.
+
+---
+
+#### **Challenge 1: Basic Python**
 **Name:** Personal Budget Tracker  
 **Concepts:**
 - Variables, data types, lists/dictionaries
@@ -308,7 +327,7 @@ Build a CLI program that:
 
 ---
 
-#### **Project 2: OOP + Modules**
+#### **Challenge 2: OOP + Modules**
 **Name:** Library Management System  
 **Concepts:**
 - Classes (Book, Library, User)  
@@ -326,7 +345,7 @@ Build a CLI program that:
 
 ---
 
-#### **Project 3: Functional Programming + APIs**
+#### **Challenge 3: Functional Programming + APIs**
 **Name:** Weather CLI Tool  
 **Concepts:**
 - API requests (`requests` module)  
@@ -344,7 +363,7 @@ Build a CLI program that:
 
 ---
 
-#### **Project 4: Advanced Data + Concurrency**
+#### **Challenge 4: Advanced Data + Concurrency**
 **Name:** Multithreaded Web Scraper  
 **Concepts:**
 - Web scraping (`BeautifulSoup`, `requests`)  
@@ -362,7 +381,7 @@ Build a CLI program that:
 
 ---
 
-#### **Project 5: Full-Stack Mini-App**
+#### **Challenge 5: Full-Stack Mini-App**
 **Name:** Flask Todo App with Auth  
 **Concepts:**
 - Flask (routes, templates)  

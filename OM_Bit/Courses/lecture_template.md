@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Summary  
+## Summary  
 - Topic 1:
     - Key point 1
     - Key point 2
@@ -18,17 +18,17 @@
 
 ---
 
-## ❓ Questions & TODOs  
+## Questions & TODOs  
 - [ ] Unclear about X? Review [Resource].  
 - [ ] Try implementing Y.  
 
 ---
 
-## 🔗 Resources
+## Resources
 - [Recommended Reading](https://...)
 - [Recommended Video](https://...)
 - [Related Exercise](exercise_link)  
 - [Related Lecture](lecture_xx.md)
 
-## :lock: License
+## License
 [MVP](LICENSE)
