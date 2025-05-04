@@ -1,19 +1,21 @@
-# One More  
-**Mindful Virtuous Professionals**
+# C.O.P.I. - An-Atomic Course
+## Create, Offer, Practice, and Inspire.
 
-**A project made by *Arthur Faugeron Jacono* and *(Martin Fuentes)* .**  
+**A project made by *Arthur Faugeron Jacono* and *(...)* .**  
+
+**Last Updated:** [04/05/2025]
 
 ---
 
 ## Project Vision  
 A curated collection of **Courses** and **Massive Projects** to inspire learning and creativity in the **digital age**.
-The goal is to provide a **comprehensive** and **accessible** resource for people seeking to enhance their knowledge and skills in various fields. The small courses are to give basic knowledge to the user, and then the user can explore more about the topic.
+The goal is to provide a **comprehensive** and **accessible** resource for people seeking to enhance their knowledge and skills in various fields. These simple courses are to give basic knowledge to the user, and then the user can explore more about the topic.
 This project also aims to foster a **community of learners and creators** who can share their experiences and insights with one another. 
 
 ---
 ## 📂 Repository Structure  
 ```
-/One_More/
+/An-Atomic/
 ├── POLICY.md
 ├── TERMS.md
 ├── LICENSE
@@ -21,11 +23,11 @@ This project also aims to foster a **community of learners and creators** who ca
 ├── /OM_Bit/
     ├──/Courses/
         ├── /Languages/
-            ├── (... Placeholder for the actual structure of the repository. Still to be defined.)
+            ├── (... Placeholder for the actual structure of the repository written in this section. Still to be defined.)
         ├── /Topics/
-            ├── (... Placeholder for the actual structure of the repository. Still to be defined.)
+            ├── (... Placeholder for the actual structure of the repository written in this section.)
     ├── /Projects/
-        ├── (... Placeholder for the actual structure of the repository. Still to be defined.)
+        ├── (... Placeholder for the actual structure of the repository written in this section.)
 .
 .
 .
@@ -40,7 +42,7 @@ This project also aims to foster a **community of learners and creators** who ca
 ✅ Share **original files** (unaltered) with credit.  
 
 **You may NOT:**  
-❌ Modify, remix, or create derivatives **without written permission**.  
+❌ Modify, remix, or create derivatives **without written permission**.     
 ❌ Use for **commercial purposes**.
 
 > 📜 **Full terms**: [LICENSE](LICENSE) | [POLICY](POLICY.md) | [TERMS](TERMS.md)  
@@ -52,9 +54,8 @@ This project also aims to foster a **community of learners and creators** who ca
 If repository is downloaded, please consider the following:
 - Includes Markdown files for easy reading and editing, notebooks extesions for multiple languages.
 - Uses content derivated from Youtube videos, Documentation, Textbooks, GitHub repositories, and other sources as references.
-- All content and modules used for this project will be documented in a json file, which will be available in the repository. This file will include the name of the module, the author, and the link to the original content. This is to ensure that all content used is properly credited and to provide a reference for users who want to explore further.
+- All content and modules used for this project will be documented in a json file, which will be available in this repository. This is to ensure that all content used is properly credited and to provide a reference for users who want to explore further.
 - The project is designed to be modular, allowing for easy updates and additions in the future. This means that new modules can be added or existing ones can be updated without affecting the overall structure of the project.
-- The project is designed to be scalable, allowing for easy updates and additions in the future. This means that new modules can be added or existing ones can be updated without affecting the overall structure of the project.
 
 ---
 
@@ -62,18 +63,26 @@ If repository is downloaded, please consider the following:
 If sharing, include:  
 
 ---
-"One More" by MVP's co-creators – [LINK_TO_PROJECT]. Mindful Virtuous Professionals.  
+By *Anatomic Course* with motto, co-creators – [LINK_TO_THIS_PROJECT]. 
 
 Contact:
 1. For permissions  or questions:
     - Email: [faugeronarthur@gmail.com](mailto:faugeronarthur@gmail.com) or [...](mailto: NONE)
-    - Phone: [+56945769963](tel:+56945769963) or [NONE](tel:NONE)
+    - Phone: [+56945769963](tel:+56945769963) or [NONE]()
 
-LinkedIn: [Arthur's LinkedIn Profile](https://linkedin.com/in/arthur-faugeron-00b259309)
-LinkedIn: [...'s LinkedIn Profile (to-be-added)]()
+2. For social communication:
+    - LinkedIn: [Arthur's LinkedIn Profile](https://linkedin.com/in/arthur-faugeron-00b259309)
+    - LinkedIn: [...'s LinkedIn Profile (to-be-added)]()
 
-🌐 Website: [NI]
+    - GitHub: [Arthur's GitHub Profile](https://github.com/ArthurFJ)
+    - GitHub: [...'s GitHub Profile (to-be-added)]()
 
-Part of the MVP Ecosystem | © MVP 2025 Arthur Faugeron and Martin Fuentes
+🌐 Website: [Still to be created]()
 
+Part of the Anatomic Course's Ecosystem | © C.O.P.I. AC 2025 Arthur Faugeron and ... On motto *Create, Offer, Practice, and Inspire*
+
+3. Legal:
+    - [LICENSE](LICENSE)
+    - [TERMS](TERMS.md)
+    - [POLICY](POLICY.md)
 ---

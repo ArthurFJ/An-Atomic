@@ -1,7 +1,6 @@
-Terms and Conditions for "One More"
-## Terms and Conditions for "One More"
+# Terms and Conditions for "*C.O.P.I.*'s Anatomic Course" by co-creators.
 
-**Last Updated:** [28/04/2025]
+**Last Updated:** [04/05/2025]
 
 ### 1. Acceptance
 By downloading and accessing any materials, you agree to:
@@ -9,22 +8,22 @@ By downloading and accessing any materials, you agree to:
 - These **Terms** and our **Policy**.
 
 ### 2. User Responsibilities
-- **Attribution:** Credit MVP as specified in the [LICENSE](LICENSE).
+- **Attribution:** Credit *C.O.P.I.* as specified in the [LICENSE](LICENSE).
 - **Compliance:** Do not circumvent usage restrictions and watermarks.
 
 ### 3. Termination
 Violations will result in:
-- Revoked access to materials.
+- Revoked access to materials. (May be escalated to third parties)
 - Legal action if necessary.
 
 ### 4. Disclaimers
 - **No Guarantees:** Materials are provided *as-is*; no warranties for accuracy or fitness for purpose.
-- **Liability:** MVP is not liable for damages from misuse as we cannot control how materials are used.
-- **Academical Aproval:** The use of our materials is for educational purposes only and does not imply any endorsement or approval by any academic institution or organization.
-- **No Endorsement:** Use of our materials does not imply endorsement by MVP or any third party.
-- **Third-Party Links:** We are not responsible for content on third-party sites linked in our materials unless they where modified through time.
-- **No Affiliation:** MVP is not affiliated with any third-party services or products mentioned in our materials unless mentioned. We do not endorse or guarantee the quality of any third-party services or products.
-- **professional recognition:** We do not guarantee that the use of our materials will lead to any professional recognition, certification or recomendation in professional work sites.
+- **Liability:** "*C.O.P.I.*" is not liable for damages from misuse as we cannot control how materials are used.
+- **Academical Aproval:** The use of our materials is for educational purposes only but does not imply any endorsement or approval by any academic institution or organization.
+- **No Endorsement:** Use of our materials does not imply endorsement by "*C.O.P.I.*" or any third party.
+- **Third-Party Links:** We are not responsible for content on third-party sites linked in our materials unless they where modified through time by the hand of *C.O.P.I.*
+- **No Affiliation:** "*C.O.P.I.*" is not affiliated with any third-party services or products in our materials unless mentioned. 
+- **Professional Recognition:** We do not guarantee that the use of our materials will lead to any professional recognition, certification or recomendation in professional work sites.
 
 
 ### 5. Governing Law
